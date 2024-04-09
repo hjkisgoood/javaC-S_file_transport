@@ -1,0 +1,11 @@
+wangyi:wang1
+wanger:wang2
+wangsan:wang3
+wangsi:wang4
+wangwu:wang5
+wangliu:wang6
+wangqi:wang7
+wangba:wang8
+wangjiu:wang9
+w:w
+\networkDirectory

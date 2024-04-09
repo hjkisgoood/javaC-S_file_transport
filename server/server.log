@@ -1,0 +1,159 @@
+6月 09, 2023 4:20:46 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 09, 2023 4:25:19 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 09, 2023 4:25:23 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 09, 2023 4:25:31 下午 server.Server$ClientHandler authenticateUser
+警告: wrong username
+6月 09, 2023 4:25:31 下午 server.Server$ClientHandler run
+警告: Login failed: IP - /26.44.71.73
+6月 09, 2023 4:25:33 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 09, 2023 4:25:36 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 09, 2023 4:25:54 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    cd 新建文件夹
+6月 09, 2023 4:25:58 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 09, 2023 4:26:10 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    cd DICK
+6月 09, 2023 4:26:14 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 09, 2023 5:12:11 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 09, 2023 5:12:15 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 09, 2023 5:12:27 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 09, 2023 5:12:30 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 09, 2023 5:14:00 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 09, 2023 5:14:08 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: pic.jpg, User: w
+6月 09, 2023 5:14:08 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get pic.jpg
+6月 09, 2023 5:14:55 下午 server.Server$ClientHandler uploadFile
+信息: File uploaded successfully
+File uploaded: pic.jpg, User: w
+6月 09, 2023 5:14:55 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    put pic.jpg
+6月 10, 2023 4:12:01 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 10, 2023 4:12:06 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 10, 2023 4:12:11 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 10, 2023 4:12:18 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 10, 2023 4:12:29 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: pic.jpg, User: w
+6月 10, 2023 4:12:29 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get pic.jpg
+6月 10, 2023 4:12:56 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 10, 2023 4:13:00 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 10, 2023 4:13:11 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: pic.jpg, User: w
+6月 10, 2023 4:13:11 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get pic.jpg
+6月 10, 2023 4:16:16 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 10, 2023 4:17:16 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 10, 2023 4:17:19 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 10, 2023 4:17:23 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 10, 2023 4:17:30 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 10, 2023 4:17:39 下午 server.Server$ClientHandler uploadFile
+信息: File uploaded successfully
+File uploaded: gooddick, User: w
+6月 10, 2023 4:17:39 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    put gooddick
+6月 10, 2023 4:17:42 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 10, 2023 4:25:55 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    cd ..
+6月 10, 2023 4:30:18 下午 server.Server$ClientHandler uploadFile
+信息: File uploaded successfully
+File uploaded: big.jpg, User: w
+6月 10, 2023 4:30:18 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    put big.jpg
+6月 10, 2023 4:36:38 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 10, 2023 4:36:41 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 10, 2023 4:36:46 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 10, 2023 4:37:47 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: big.jpg, User: w
+6月 10, 2023 4:37:47 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get big.jpg
+6月 10, 2023 4:37:47 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: big.jpg, User: w
+6月 10, 2023 4:37:47 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get big.jpg
+6月 10, 2023 4:38:24 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: big.jpg, User: w
+6月 10, 2023 4:38:24 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get big.jpg
+6月 10, 2023 4:38:59 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: big.jpg, User: w
+6月 10, 2023 4:38:59 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get big.jpg
+6月 10, 2023 4:39:34 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    dir
+6月 10, 2023 4:39:46 下午 server.Server start
+信息: Server started and listening on port 8845
+6月 10, 2023 4:39:48 下午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 10, 2023 4:39:52 下午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /26.44.71.73
+6月 10, 2023 4:39:57 下午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: big.jpg, User: w
+6月 10, 2023 4:39:57 下午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /26.44.71.73    get big.jpg
+6月 11, 2023 11:42:45 上午 server.Server start
+信息: Server started and listening on port 8845
+6月 11, 2023 11:45:14 上午 server.Server start
+信息: Server started and listening on port 8845
+6月 11, 2023 11:45:38 上午 server.Server start
+信息: New client connected: /26.44.71.73
+6月 11, 2023 11:46:38 上午 server.Server start
+信息: New client connected: /10.28.128.10
+6月 11, 2023 11:46:41 上午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /10.28.128.10
+6月 11, 2023 11:47:13 上午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /10.28.128.10    dir
+6月 11, 2023 11:47:20 上午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: big.jpg, User: w
+6月 11, 2023 11:47:20 上午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /10.28.128.10    get big.jpg
+6月 11, 2023 11:47:46 上午 server.Server$ClientHandler downloadFile
+信息: File downloaded successfully
+File downloaded: my.dick, User: w
+6月 11, 2023 11:47:46 上午 server.Server$ClientHandler processCommand
+信息:  User - w, IP - /10.28.128.10    get my.dick
+6月 11, 2023 11:50:03 上午 server.Server start
+信息: Server started and listening on port 8845
+6月 11, 2023 11:50:08 上午 server.Server start
+信息: New client connected: /10.28.128.10
+6月 11, 2023 11:50:10 上午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /10.28.128.10
+6月 11, 2023 11:51:24 上午 server.Server start
+信息: New client connected: /10.28.128.10
+6月 11, 2023 11:51:26 上午 server.Server$ClientHandler run
+信息: Login successful: User - w, IP - /10.28.128.10
